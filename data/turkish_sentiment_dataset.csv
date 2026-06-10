@@ -1,0 +1,348 @@
+text,label
+"Çok güzel olmuş, ellerinize sağlık.",positive
+"Harika bir çalışma, tebrik ederim.",positive
+"Proje mükemmel gidiyor, çok mutluyum.",positive
+"Bu film kesinlikle izlenmeli, harika.",positive
+Ürün çok kaliteli ve başarılı.,positive
+"Hizmetten çok memnun kaldım, teşekkürler.",positive
+Çok keyifli ve eğlenceli bir gündü.,positive
+Tasarımı çok hoş ve modern görünüyor.,positive
+"Kesinlikle tavsiye ederim, çok iyi.",positive
+Bugün kendimi çok enerjik ve mutlu hissediyorum.,positive
+"Harika bir deneyimdi, tekrar geleceğim.",positive
+Bu karardan dolayı çok sevinçliyim.,positive
+"Her şey yolunda, işler harika gidiyor.",positive
+"Süper bir ürün, parasını sonuna kadar hak ediyor.",positive
+"Mükemmel bir iletişim, çok yardımcı oldular.",positive
+"Film çok güzeldi, tekrar izleyebilirim.",positive
+Yemekler nefis ve lezzetliydi.,positive
+"Beğendim, oldukça kullanışlı.",positive
+"Projeyi başarıyla tamamladık, gururluyum.",positive
+Herkes çok güler yüzlü ve cana yakındı.,positive
+Harika bir performans sergilediler.,positive
+Bu akşam çok güzel bir konser izledik.,positive
+Ürünün kalitesi beklentimin üzerinde çıktı.,positive
+Çok tatlı ve sevimli bir kedi.,positive
+Kendimi harika hissediyorum.,positive
+"İyiydi, beklentilerimi karşıladı.",positive
+Hızlı teslimat ve güzel paketleme için teşekkürler.,positive
+Çok dostça bir ortam vardı.,positive
+Yazılım çok kararlı ve hızlı çalışıyor.,positive
+"Güzel bir gün, hava harika.",positive
+Çok faydalı bir eğitim oldu.,positive
+Yeni tasarımı çok beğendim.,positive
+Başarılarınızın devamını dilerim.,positive
+Müşteri hizmetleri mükemmel ilgilendi.,positive
+Film gerçekten çok sürükleyici ve güzeldi.,positive
+Çok heyecanlı ve keyifli bir macera.,positive
+Kitap çok akıcı ve güzel yazılmış.,positive
+"Çok başarılı bir sunumdu, tebrikler.",positive
+Uygulama çok pratik ve kullanışlı olmuş.,positive
+"Harika bir otel, tatilimiz mükemmel geçti.",positive
+"İyi ki almışım, çok memnunum.",positive
+"Güzel haberler aldık, çok sevindik.",positive
+"Çok başarılı bir çalışma olmuş, tebrikler.",positive
+"Mükemmel bir servis, garsonlar çok ilgiliydi.",positive
+Bu kitap hayatımı olumlu yönde etkiledi.,positive
+Fiyat performans oranı çok başarılı.,positive
+Çok samimi ve içten bir karşılama.,positive
+"Bu habere çok sevindim, harika bir gelişme.",positive
+Doğanın güzelliği beni büyüledi.,positive
+"Tavsiye ederim, pişman olmazsınız.",positive
+"Hiç beğenmedim, zaman kaybı.",negative
+"Korkunç bir servis, kesinlikle tavsiye etmiyorum.",negative
+"Ürün kırık geldi, çok üzgünüm.",negative
+Hayatımda gördüğüm en berbat film.,negative
+"Kargo çok yavaştı, günlerce bekledim.",negative
+Bu para bu kalitesizliğe değmez.,negative
+Müşteri hizmetleri çok kaba ve ilgisizdi.,negative
+"Yemekler soğuk ve lezzetsizdi, hiç beğenmedim.",negative
+Büyük bir hayal kırıklığı yaşadım.,negative
+Tasarım çok kötü ve karmaşık görünüyor.,negative
+"Hiç profesyonel değiller, rezalet.",negative
+Bugün kendimi çok yorgun ve mutsuz hissediyorum.,negative
+"Cihaz bozuldu, iade süreci çok zor.",negative
+"Verdiğim paraya acıdım, berbat.",negative
+Çok kalitesiz bir malzemeden yapılmış.,negative
+"Hizmet sıfır, kimse ilgilenmiyor.",negative
+"Film çok sıkıcıydı, yarısında çıktım.",negative
+Kutu ezilmiş ve yırtılmış durumdaydı.,negative
+Destek ekibi hiçbir sorumu yanıtlamadı.,negative
+"Uygulama sürekli çöküyor, çok başarısız.",negative
+"Hava berbat, moralim bozuk.",negative
+"Kötü bir deneyimdi, bir daha tercih etmem.",negative
+Ürünün rengi fotoğraftakinden çok farklı.,negative
+"Gürültüden dolayı hiç uyuyamadım, berbattı.",negative
+Çok kaba bir davranışla karşılaştım.,negative
+"Beklentilerimin çok altında kaldı, başarısız.",negative
+"Kötüydü, param boşa gitti.",negative
+Sunum çok sıkıcı ve düzensizdi.,negative
+"Temizlik sıfırdı, oda çok kirliydi.",negative
+"Siparişim yanlış geldi, büyük rezalet.",negative
+"Hiçbir işe yaramayan, kötü bir cihaz.",negative
+"Zamanımı boşa harcadım, çok üzgünüm.",negative
+"Bu fiyata çok daha iyisi olabilirdi, yazık.",negative
+"Uygulama çok yavaş, kullanışsız.",negative
+"Otobüs çok geç geldi, yolda kaldık.",negative
+"Tadı çok kötüydü, taze değildi.",negative
+Beni çok hayal kırıklığına uğrattınız.,negative
+"Çok kötü kokuyordu, rahatsız ediciydi.",negative
+Paketleme çok özensiz yapılmıştı.,negative
+"Verdikleri sözü tutmadılar, güvenilmezler.",negative
+Çok yorucu ve stresli bir gündü.,negative
+"Hiç memnun kalmadım, önermiyorum.",negative
+Bu film zaman kaybından başka bir şey değil.,negative
+Çalışanlar çok ilgisiz ve suratsızdı.,negative
+Bu sistem çok eski ve kullanışsız.,negative
+"Kargo paketimi kaybetmişler, sinir bozucu.",negative
+Ürünün kalitesi berbat durumda.,negative
+Çok başarısız bir deneme oldu.,negative
+İnternet bağlantısı çok yavaş ve kötü.,negative
+"Tam bir fiyasko, kesinlikle uzak durun.",negative
+Bugün okula otobüsle gittim.,neutral
+Toplantı saat ikiye ertelenmiş.,neutral
+E-postayı dün akşam gönderdim.,neutral
+Film yarın vizyona girecekmiş.,neutral
+Kargoyu öğleden sonra teslim aldım.,neutral
+Yarın hava bulutlu olacakmış.,neutral
+Ders notlarını bilgisayarıma kaydettim.,neutral
+Yeni projenin detayları haftaya açıklanacak.,neutral
+Ofise geldiğimde kimse yoktu.,neutral
+Raporu tamamlayıp yöneticime sundum.,neutral
+Dosyayı güncellemek için sisteme giriş yaptım.,neutral
+Hafta sonu arkadaşlarla buluşacağız.,neutral
+Telefonun şarjı bitmek üzere.,neutral
+"Yemek siparişi verdik, bekliyoruz.",neutral
+Bu sokakta yeni bir dükkan açılmış.,neutral
+Uçak biletini internet üzerinden aldım.,neutral
+Kitabı kütüphaneden ödünç aldım.,neutral
+Toplantıya beş kişi katıldı.,neutral
+Ödevimi teslim etmek için sisteme yükledim.,neutral
+Gelen mesajları sırayla kontrol ediyorum.,neutral
+Yarın sabah erken kalkmam gerekiyor.,neutral
+Kutunun içinde bazı belgeler vardı.,neutral
+Ürünün kutusunu açtım ve inceledim.,neutral
+Fatura detaylarını kontrol ettim.,neutral
+Yeni güncellemeyi bilgisayarıma kurdum.,neutral
+Bugün öğle yemeğinde çorba içtim.,neutral
+Toplantı odasında projeksiyon cihazı kurulu.,neutral
+Adres bilgilerini güncellemeyi unutmayın.,neutral
+Yeni siparişler listelendi.,neutral
+Bilet fiyatları henüz açıklanmadı.,neutral
+İşlemi tamamlamak için onay butonuna basın.,neutral
+Kullanım kılavuzunu dikkatlice okuyun.,neutral
+Destek talebiniz sıraya alındı.,neutral
+Giriş yapmak için şifrenizi girin.,neutral
+Yazıcıda kağıt kalmamış.,neutral
+Bu yolun sonunda bir okul var.,neutral
+Sınav sonuçları dün açıklandı.,neutral
+Kayıt işlemleri yarın başlıyor.,neutral
+Kurs süresi toplamda üç hafta.,neutral
+Haftalık planı panoya astım.,neutral
+Odanın ışıkları kapalıydı.,neutral
+E-posta kutumu kontrol ettim.,neutral
+Mağaza akşam saat sekizde kapanıyor.,neutral
+Yeni ürün kataloğu masanın üzerinde.,neutral
+Bu bilgisayar iki yıldır bende.,neutral
+Rapor dosyası PDF formatında kaydedildi.,neutral
+Yarınki hava durumu tahmini yapıldı.,neutral
+Toplantıya katılım listesini hazırladım.,neutral
+Telefonun kamerasını test ettim.,neutral
+Kargodan bir paket geldi.,neutral
+iyi harika bir film.,positive
+kötü berbat bir film.,negative
+Bugün kitap aldım.,neutral
+mükemmel çok beğendim.,positive
+başarısız hiç beğenmedim.,negative
+Yarın telefon gideceğiz.,neutral
+Bu keyifli çok güzeldi.,positive
+Bu yorgun çok kötüydü.,negative
+Dün belge gördüm.,neutral
+Bugün süper hissediyorum.,positive
+Bugün korkunç hissediyorum.,negative
+Bu kapalı masa üzerinde.,neutral
+Hizmetten harika kaldım.,positive
+Destekten sıkıcı kaldım.,negative
+Bilgileri bilgisayar kaydettim.,neutral
+Tasarımı oldukça mutlu.,positive
+Tasarımı oldukça üzgün.,negative
+Dosyayı rapor gönderdim.,neutral
+"Ellerinize muhteşem, çok iyi.",positive
+"Zaman kaybı, çok kalitesiz.",negative
+Yeni plan henüz gelmedi.,neutral
+"Kesinlikle güzel, süper.",positive
+"Kesinlikle berbat, rezalet.",negative
+İşlemi okul tamamladım.,neutral
+Her şey çok başarılı gidiyor.,positive
+Her şey çok mutsuz gidiyor.,negative
+Haftalık fatura hazırlandı.,neutral
+Bu karardan memnun.,positive
+Bu karardan rezalet.,negative
+Odanın kapısı dosya.,neutral
+iyi harika bir film.,positive
+kötü berbat bir film.,negative
+Bugün kitap aldım.,neutral
+mükemmel çok beğendim.,positive
+başarısız hiç beğenmedim.,negative
+Yarın telefon gideceğiz.,neutral
+Bu keyifli çok güzeldi.,positive
+Bu yorgun çok kötüydü.,negative
+Dün belge gördüm.,neutral
+Bugün süper hissediyorum.,positive
+Bugün korkunç hissediyorum.,negative
+Bu kapalı masa üzerinde.,neutral
+Hizmetten harika kaldım.,positive
+Destekten sıkıcı kaldım.,negative
+Bilgileri bilgisayar kaydettim.,neutral
+Tasarımı oldukça mutlu.,positive
+Tasarımı oldukça üzgün.,negative
+Dosyayı rapor gönderdim.,neutral
+"Ellerinize muhteşem, çok iyi.",positive
+"Zaman kaybı, çok kalitesiz.",negative
+Yeni plan henüz gelmedi.,neutral
+"Kesinlikle güzel, süper.",positive
+"Kesinlikle berbat, rezalet.",negative
+İşlemi okul tamamladım.,neutral
+Her şey çok başarılı gidiyor.,positive
+Her şey çok mutsuz gidiyor.,negative
+Haftalık fatura hazırlandı.,neutral
+Bu karardan memnun.,positive
+Bu karardan rezalet.,negative
+Odanın kapısı dosya.,neutral
+iyi harika bir film.,positive
+kötü berbat bir film.,negative
+Bugün kitap aldım.,neutral
+mükemmel çok beğendim.,positive
+başarısız hiç beğenmedim.,negative
+Yarın telefon gideceğiz.,neutral
+Bu keyifli çok güzeldi.,positive
+Bu yorgun çok kötüydü.,negative
+Dün belge gördüm.,neutral
+Bugün süper hissediyorum.,positive
+Bugün korkunç hissediyorum.,negative
+Bu kapalı masa üzerinde.,neutral
+Hizmetten harika kaldım.,positive
+Destekten sıkıcı kaldım.,negative
+Bilgileri bilgisayar kaydettim.,neutral
+Tasarımı oldukça mutlu.,positive
+Tasarımı oldukça üzgün.,negative
+Dosyayı rapor gönderdim.,neutral
+"Ellerinize muhteşem, çok iyi.",positive
+"Zaman kaybı, çok kalitesiz.",negative
+Yeni plan henüz gelmedi.,neutral
+"Kesinlikle güzel, süper.",positive
+"Kesinlikle berbat, rezalet.",negative
+İşlemi okul tamamladım.,neutral
+Her şey çok başarılı gidiyor.,positive
+Her şey çok mutsuz gidiyor.,negative
+Haftalık fatura hazırlandı.,neutral
+Bu karardan memnun.,positive
+Bu karardan rezalet.,negative
+Odanın kapısı dosya.,neutral
+iyi harika bir film.,positive
+kötü berbat bir film.,negative
+Bugün kitap aldım.,neutral
+mükemmel çok beğendim.,positive
+başarısız hiç beğenmedim.,negative
+Yarın telefon gideceğiz.,neutral
+Bu keyifli çok güzeldi.,positive
+Bu yorgun çok kötüydü.,negative
+Dün belge gördüm.,neutral
+Bugün süper hissediyorum.,positive
+Bugün korkunç hissediyorum.,negative
+Bu kapalı masa üzerinde.,neutral
+Hizmetten harika kaldım.,positive
+Destekten sıkıcı kaldım.,negative
+Bilgileri bilgisayar kaydettim.,neutral
+Tasarımı oldukça mutlu.,positive
+Tasarımı oldukça üzgün.,negative
+Dosyayı rapor gönderdim.,neutral
+"Ellerinize muhteşem, çok iyi.",positive
+"Zaman kaybı, çok kalitesiz.",negative
+Yeni plan henüz gelmedi.,neutral
+"Kesinlikle güzel, süper.",positive
+"Kesinlikle berbat, rezalet.",negative
+İşlemi okul tamamladım.,neutral
+Her şey çok başarılı gidiyor.,positive
+Her şey çok mutsuz gidiyor.,negative
+Haftalık fatura hazırlandı.,neutral
+Bu karardan memnun.,positive
+Bu karardan rezalet.,negative
+Odanın kapısı dosya.,neutral
+iyi harika bir film.,positive
+kötü berbat bir film.,negative
+Bugün kitap aldım.,neutral
+mükemmel çok beğendim.,positive
+başarısız hiç beğenmedim.,negative
+Yarın telefon gideceğiz.,neutral
+Bu keyifli çok güzeldi.,positive
+Bu yorgun çok kötüydü.,negative
+Dün belge gördüm.,neutral
+Bugün süper hissediyorum.,positive
+Bugün korkunç hissediyorum.,negative
+Bu kapalı masa üzerinde.,neutral
+Hizmetten harika kaldım.,positive
+Destekten sıkıcı kaldım.,negative
+Bilgileri bilgisayar kaydettim.,neutral
+Tasarımı oldukça mutlu.,positive
+Tasarımı oldukça üzgün.,negative
+Dosyayı rapor gönderdim.,neutral
+"Ellerinize muhteşem, çok iyi.",positive
+"Zaman kaybı, çok kalitesiz.",negative
+Yeni plan henüz gelmedi.,neutral
+"Kesinlikle güzel, süper.",positive
+"Kesinlikle berbat, rezalet.",negative
+İşlemi okul tamamladım.,neutral
+Her şey çok başarılı gidiyor.,positive
+Her şey çok mutsuz gidiyor.,negative
+Haftalık fatura hazırlandı.,neutral
+Bu karardan memnun.,positive
+Bu karardan rezalet.,negative
+Odanın kapısı dosya.,neutral
+morelim yok,negative
+morelim yok,negative
+morelim yok,negative
+morelim yok,negative
+Bugün korkunç hissediyorum,negative
+gayet normal,neutral
+normal,neutral
+iyi hissetmiyorum,negative
+iyi hissetmiyorum,negative
+mutlu değilim,negative
+güzel görünmüyor,negative
+memnun değilim,negative
+beğenmedim hiç,negative
+hoşlanmıyorum,negative
+sevmiyorum bunu,negative
+kötü hissediyorum,negative
+üzgünüm bugün,negative
+mutsuzum çok,negative
+iyi sayılmam,negative
+iyi değilim,negative
+iyi hissetmem,negative
+mutlu sayılmam,negative
+güzel sayılmaz,negative
+başarılı sayılmam,negative
+yeterli değilim,negative
+iyi olmadım,negative
+mutlu olamadım,negative
+başaramadım,negative
+iyi,positive
+çok iyi,positive
+gerçekten iyi,positive
+oldukça iyi,positive
+gayet iyi,positive
+iyi gidiyor,positive
+iyi oldu,positive
+iyi bir deneyim,positive
+iyi bir gün,positive
+iyi hissediyorum,positive
+kendimi iyi hissediyorum,positive
+bugün iyi,positive
+her şey iyi,positive
+durum iyi,positive
+sonuç iyi,positive
+iyidim sonra kötü oldum,negative
+harika ama kötü film,negative
+bugün çok iyidi,positive
+iyidi bugün,positive
